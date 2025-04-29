@@ -1,0 +1,22 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+
+# MacOS System Files
+.DS_Store
+
+# Project Output Files
+critical_path_clean.csv
+pert_summary.csv
+monte_carlo_raw.csv
+confidence_curve.csv
+confidence_answers.txt
+task1_histogram.png
+confidence_plot.png
+
+# Jupyter or cache files (if any)
+.ipynb_checkpoints/
